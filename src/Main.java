@@ -1,7 +1,7 @@
 import java.sql.*;
 public  class Main{
     static void main() {
-//        Create.createDept("D9", "GBM");
+        Create.createDept("D9", "GBM");
 //        Create.createDept("D8", "MnA");
         Read.getAllDept();
         Update.updateDept("D1", "Mergers");
