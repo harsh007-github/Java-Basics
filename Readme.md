@@ -1,2 +1,2 @@
 # Java Basics Project
-This project covers my basic learnings of java languag.
+This project covers my basic learnings of java language.
